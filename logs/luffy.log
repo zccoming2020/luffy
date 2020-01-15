@@ -1,0 +1,432 @@
+INFO 2020-01-03 23:01:31,165 basehttp 124 "GET / HTTP/1.1" 200 16286
+INFO 2020-01-03 23:01:31,234 basehttp 124 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2020-01-03 23:01:31,349 basehttp 124 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2020-01-03 23:01:31,351 basehttp 124 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2020-01-03 23:01:31,355 basehttp 124 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+WARNING 2020-01-03 23:01:31,380 base 93 Not Found: /favicon.ico
+WARNING 2020-01-03 23:01:31,381 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 1977
+INFO 2020-01-03 23:03:03,363 basehttp 124 "GET / HTTP/1.1" 200 16286
+INFO 2020-01-03 23:06:15,876 basehttp 124 "GET / HTTP/1.1" 200 16286
+INFO 2020-01-03 23:06:23,839 basehttp 124 "GET / HTTP/1.1" 200 16286
+INFO 2020-01-03 23:08:15,184 basehttp 124 "GET / HTTP/1.1" 200 16286
+INFO 2020-01-03 23:08:26,879 basehttp 124 "GET / HTTP/1.1" 200 16286
+CRITICAL 2020-01-03 23:09:16,511 t_dj 8 哈口，小伙子！！！！！！
+CRITICAL 2020-01-03 23:10:47,892 t_dj 8 哈口，小伙子！！！！！！
+INFO 2020-01-03 23:52:47,731 basehttp 124 "GET / HTTP/1.1" 200 16286
+INFO 2020-01-03 23:52:47,761 basehttp 124 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2020-01-03 23:52:47,885 basehttp 124 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2020-01-03 23:52:47,886 basehttp 124 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+INFO 2020-01-03 23:52:47,886 basehttp 124 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2020-01-04 10:34:03,366 basehttp 124 "GET / HTTP/1.1" 200 16286
+INFO 2020-01-04 10:34:08,533 basehttp 124 "GET / HTTP/1.1" 200 16286
+INFO 2020-01-04 10:34:14,371 basehttp 124 "GET / HTTP/1.1" 200 16286
+INFO 2020-01-04 10:34:15,143 basehttp 124 "GET / HTTP/1.1" 200 16286
+INFO 2020-01-04 10:34:16,054 basehttp 124 "GET / HTTP/1.1" 200 16286
+CRITICAL 2020-01-04 10:44:58,709 t_dj 7 哈口，小伙子！！！！！！
+WARNING 2020-01-04 16:29:18,637 base 93 Not Found: /test/
+WARNING 2020-01-04 16:29:18,640 basehttp 124 "GET /test/ HTTP/1.1" 404 2189
+WARNING 2020-01-04 16:29:18,848 base 93 Not Found: /favicon.ico
+WARNING 2020-01-04 16:29:18,849 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2207
+WARNING 2020-01-04 16:30:47,157 base 93 Not Found: /test/
+WARNING 2020-01-04 16:30:47,159 basehttp 124 "GET /test/ HTTP/1.1" 404 2189
+WARNING 2020-01-04 16:30:50,080 base 93 Not Found: /test/
+WARNING 2020-01-04 16:30:50,080 basehttp 124 "GET /test/ HTTP/1.1" 404 2189
+INFO 2020-01-04 16:32:07,438 basehttp 124 "GET /user/test/ HTTP/1.1" 200 5145
+INFO 2020-01-04 16:32:07,637 basehttp 124 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2020-01-04 16:32:07,643 basehttp 124 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2020-01-04 16:32:07,658 basehttp 124 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+INFO 2020-01-04 16:32:07,660 basehttp 124 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2020-01-04 16:32:07,661 basehttp 124 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2020-01-04 16:32:07,717 basehttp 124 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2020-01-04 16:32:07,717 basehttp 124 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2020-01-04 16:32:07,723 basehttp 124 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2020-01-04 16:32:07,727 basehttp 124 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2020-01-04 16:32:07,753 basehttp 124 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2020-01-04 16:32:07,827 basehttp 124 "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 200 88145
+WARNING 2020-01-04 17:32:27,621 basehttp 124 "GET /static/rest_framework/css/bootstrap.min.css.map HTTP/1.1" 404 1744
+ERROR 2020-01-04 17:46:34,297 exception 118 Internal Server Error: /user/test/
+Traceback (most recent call last):
+  File "G:\Virtualenv\luffy\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\rest_framework\views.py", line 507, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\rest_framework\views.py", line 422, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2020-01-04 17:46:34,851 basehttp 124 "GET /user/test/ HTTP/1.1" 500 79956
+WARNING 2020-01-04 17:59:52,877 base 93 Not Found: /
+WARNING 2020-01-04 17:59:52,879 basehttp 124 "GET / HTTP/1.1" 404 2156
+ERROR 2020-01-04 18:38:32,057 exception 118 Internal Server Error: /xadmin/
+Traceback (most recent call last):
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\cursors.py", line 170, in execute
+    result = self._query(query)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\cursors.py", line 328, in _query
+    conn.query(q)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\connections.py", line 732, in _read_query_result
+    result.read()
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table 'luffy.xadmin_usersettings' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "G:\Virtualenv\luffy\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\xadmin\views\dashboard.py", line 592, in get
+    self.widgets = self.get_widgets()
+  File "G:\Virtualenv\luffy\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "G:\Virtualenv\luffy\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\xadmin\views\dashboard.py", line 549, in get_widgets
+    if len(portal_pos):
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\models\query.py", line 254, in __len__
+    self._fetch_all()
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\models\query.py", line 1179, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\models\sql\compiler.py", line 1068, in execute_sql
+    cursor.execute(sql, params)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\backends\utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\backends\utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\backends\utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\cursors.py", line 170, in execute
+    result = self._query(query)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\cursors.py", line 328, in _query
+    conn.query(q)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\connections.py", line 732, in _read_query_result
+    result.read()
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.ProgrammingError: (1146, "Table 'luffy.xadmin_usersettings' doesn't exist")
+ERROR 2020-01-04 18:38:32,537 basehttp 124 "GET /xadmin/ HTTP/1.1" 500 226233
+ERROR 2020-01-04 18:40:07,893 exception 118 Internal Server Error: /xadmin/
+Traceback (most recent call last):
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\cursors.py", line 170, in execute
+    result = self._query(query)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\cursors.py", line 328, in _query
+    conn.query(q)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\connections.py", line 732, in _read_query_result
+    result.read()
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table 'luffy.xadmin_usersettings' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "G:\Virtualenv\luffy\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\xadmin\views\dashboard.py", line 592, in get
+    self.widgets = self.get_widgets()
+  File "G:\Virtualenv\luffy\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "G:\Virtualenv\luffy\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "G:\Virtualenv\luffy\lib\site-packages\xadmin\views\dashboard.py", line 549, in get_widgets
+    if len(portal_pos):
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\models\query.py", line 254, in __len__
+    self._fetch_all()
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\models\query.py", line 1179, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\models\sql\compiler.py", line 1068, in execute_sql
+    cursor.execute(sql, params)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\backends\utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\backends\utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\backends\utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "G:\Virtualenv\luffy\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\cursors.py", line 170, in execute
+    result = self._query(query)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\cursors.py", line 328, in _query
+    conn.query(q)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\connections.py", line 732, in _read_query_result
+    result.read()
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "G:\Virtualenv\luffy\lib\site-packages\pymysql\err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.ProgrammingError: (1146, "Table 'luffy.xadmin_usersettings' doesn't exist")
+ERROR 2020-01-04 18:40:08,017 basehttp 124 "GET /xadmin/ HTTP/1.1" 500 226234
+WARNING 2020-01-06 19:26:37,604 base 93 Not Found: /register
+WARNING 2020-01-06 19:26:37,617 basehttp 124 "GET /register HTTP/1.1" 404 2199
+WARNING 2020-01-06 19:26:37,730 base 93 Not Found: /favicon.ico
+WARNING 2020-01-06 19:26:37,731 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2208
+WARNING 2020-01-06 22:36:09,734 base 93 Not Found: /admin
+WARNING 2020-01-06 22:36:09,735 basehttp 124 "GET /admin HTTP/1.1" 404 2295
+WARNING 2020-01-06 22:36:13,334 base 93 Not Found: /axadmin
+WARNING 2020-01-06 22:36:13,335 basehttp 124 "GET /axadmin HTTP/1.1" 404 2301
+WARNING 2020-01-06 22:49:33,633 base 93 Not Found: /xadmin/home
+WARNING 2020-01-06 22:49:33,634 basehttp 124 "GET /xadmin/home HTTP/1.1" 404 6486
+WARNING 2020-01-06 23:22:50,278 base 93 Not Found: /banner
+WARNING 2020-01-06 23:22:50,279 basehttp 124 "GET /banner HTTP/1.1" 404 2298
+WARNING 2020-01-06 23:23:48,345 base 93 Not Found: /home/banner
+WARNING 2020-01-06 23:23:48,345 basehttp 124 "GET /home/banner HTTP/1.1" 404 2367
+CRITICAL 2020-01-08 14:37:49,465 t_dj 7 哈口，小伙子！！！！！！
+CRITICAL 2020-01-08 14:38:17,851 t_dj 7 哈口，小伙子！！！！！！
+WARNING 2020-01-13 20:42:29,547 base 93 Not Found: /admin
+WARNING 2020-01-13 20:42:29,602 basehttp 124 "GET /admin HTTP/1.1" 404 2295
+WARNING 2020-01-13 20:42:29,743 base 93 Not Found: /favicon.ico
+WARNING 2020-01-13 20:42:29,745 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2313
+WARNING 2020-01-13 20:46:43,586 base 93 Not Found: /
+WARNING 2020-01-13 20:46:43,587 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 20:47:14,408 base 93 Not Found: /
+WARNING 2020-01-13 20:47:14,409 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 20:47:21,617 base 93 Not Found: /
+WARNING 2020-01-13 20:47:21,618 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 21:04:27,176 base 93 Not Found: /  找不到应用程序
+WARNING 2020-01-13 21:04:27,177 basehttp 124 "GET /%20%20%E6%89%BE%E4%B8%8D%E5%88%B0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F HTTP/1.1" 404 2395
+WARNING 2020-01-13 21:04:37,009 base 93 Not Found: /  找不到应用程序
+WARNING 2020-01-13 21:04:37,010 basehttp 124 "GET /%20%20%E6%89%BE%E4%B8%8D%E5%88%B0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F HTTP/1.1" 404 2395
+ERROR 2020-01-13 21:12:17,054 exception 74 Invalid HTTP_HOST header: 'btrace.qq.com'. You may need to add 'btrace.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:12:17,231 basehttp 124 "POST http://btrace.qq.com/ckvcollect/ HTTP/1.1" 400 67183
+ERROR 2020-01-13 21:12:30,823 exception 74 Invalid HTTP_HOST header: 'szmfqrgo'. You may need to add 'szmfqrgo' to ALLOWED_HOSTS.
+ERROR 2020-01-13 21:12:30,824 exception 74 Invalid HTTP_HOST header: 'yliqibaupszbe'. You may need to add 'yliqibaupszbe' to ALLOWED_HOSTS.
+ERROR 2020-01-13 21:12:30,825 exception 74 Invalid HTTP_HOST header: 'xkyublp'. You may need to add 'xkyublp' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:12:30,881 basehttp 124 "HEAD http://szmfqrgo/ HTTP/1.1" 400 64777
+WARNING 2020-01-13 21:12:30,905 basehttp 124 "HEAD http://xkyublp/ HTTP/1.1" 400 64881
+WARNING 2020-01-13 21:12:30,922 basehttp 124 "HEAD http://yliqibaupszbe/ HTTP/1.1" 400 65039
+WARNING 2020-01-13 21:12:33,457 base 93 Not Found: /
+WARNING 2020-01-13 21:12:33,458 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 21:12:33,621 base 93 Not Found: /favicon.ico
+WARNING 2020-01-13 21:12:33,622 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2313
+ERROR 2020-01-13 21:12:34,636 exception 74 Invalid HTTP_HOST header: 'www.qq.com:443'. You may need to add 'www.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:12:34,672 basehttp 124 "CONNECT www.qq.com:443 HTTP/1.1" 400 64589
+ERROR 2020-01-13 21:13:08,619 exception 74 Invalid HTTP_HOST header: 'fgpiufftjmvbycd'. You may need to add 'fgpiufftjmvbycd' to ALLOWED_HOSTS.
+ERROR 2020-01-13 21:13:08,620 exception 74 Invalid HTTP_HOST header: 'bvreaoyclbd'. You may need to add 'bvreaoyclbd' to ALLOWED_HOSTS.
+ERROR 2020-01-13 21:13:08,620 exception 74 Invalid HTTP_HOST header: 'cxienbi'. You may need to add 'cxienbi' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:13:08,881 basehttp 124 "HEAD http://bvreaoyclbd/ HTTP/1.1" 400 64985
+WARNING 2020-01-13 21:13:08,881 basehttp 124 "HEAD http://fgpiufftjmvbycd/ HTTP/1.1" 400 65091
+WARNING 2020-01-13 21:13:08,881 basehttp 124 "HEAD http://cxienbi/ HTTP/1.1" 400 64881
+ERROR 2020-01-13 21:13:34,583 exception 74 Invalid HTTP_HOST header: 'www.qq.com:443'. You may need to add 'www.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:13:34,614 basehttp 124 "CONNECT www.qq.com:443 HTTP/1.1" 400 64589
+ERROR 2020-01-13 21:14:27,343 exception 74 Invalid HTTP_HOST header: 'btrace.qq.com'. You may need to add 'btrace.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:14:27,374 basehttp 124 "POST http://btrace.qq.com/ckvcollect/ HTTP/1.1" 400 67929
+ERROR 2020-01-13 21:14:34,597 exception 74 Invalid HTTP_HOST header: 'www.qq.com:443'. You may need to add 'www.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:14:34,626 basehttp 124 "CONNECT www.qq.com:443 HTTP/1.1" 400 64589
+ERROR 2020-01-13 21:15:34,610 exception 74 Invalid HTTP_HOST header: 'www.qq.com:443'. You may need to add 'www.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:15:34,640 basehttp 124 "CONNECT www.qq.com:443 HTTP/1.1" 400 64589
+ERROR 2020-01-13 21:16:34,625 exception 74 Invalid HTTP_HOST header: 'www.qq.com:443'. You may need to add 'www.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:16:34,654 basehttp 124 "CONNECT www.qq.com:443 HTTP/1.1" 400 64556
+ERROR 2020-01-13 21:17:22,683 exception 74 Invalid HTTP_HOST header: '116.128.163.68'. You may need to add '116.128.163.68' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:17:22,721 basehttp 124 "POST http://116.128.163.68/ HTTP/1.1" 400 64880
+ERROR 2020-01-13 21:17:22,728 exception 74 Invalid HTTP_HOST header: 'btrace.qq.com'. You may need to add 'btrace.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:17:22,771 basehttp 124 "POST http://btrace.qq.com/ckvcollect/ HTTP/1.1" 400 68234
+ERROR 2020-01-13 21:17:22,773 exception 74 Invalid HTTP_HOST header: 'btrace.qq.com'. You may need to add 'btrace.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:17:22,816 basehttp 124 "POST http://btrace.qq.com/ckvcollect/ HTTP/1.1" 400 67858
+ERROR 2020-01-13 21:17:34,638 exception 74 Invalid HTTP_HOST header: 'www.qq.com:443'. You may need to add 'www.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:17:34,667 basehttp 124 "CONNECT www.qq.com:443 HTTP/1.1" 400 64589
+ERROR 2020-01-13 21:18:34,652 exception 74 Invalid HTTP_HOST header: 'www.qq.com:443'. You may need to add 'www.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:18:34,681 basehttp 124 "CONNECT www.qq.com:443 HTTP/1.1" 400 64589
+ERROR 2020-01-13 21:19:27,358 exception 74 Invalid HTTP_HOST header: 'btrace.qq.com'. You may need to add 'btrace.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:19:27,390 basehttp 124 "POST http://btrace.qq.com/ckvcollect/ HTTP/1.1" 400 67924
+ERROR 2020-01-13 21:19:30,889 exception 74 Invalid HTTP_HOST header: 'dldir1.qq.com'. You may need to add 'dldir1.qq.com' to ALLOWED_HOSTS.
+ERROR 2020-01-13 21:19:30,897 exception 74 Invalid HTTP_HOST header: 'btrace.qq.com'. You may need to add 'btrace.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:19:30,942 basehttp 124 "POST http://btrace.qq.com/ckvcollect/ HTTP/1.1" 400 67428
+WARNING 2020-01-13 21:19:30,950 basehttp 124 "GET http://dldir1.qq.com/qqtv/appdata/config.ini HTTP/1.1" 400 65147
+ERROR 2020-01-13 21:19:34,665 exception 74 Invalid HTTP_HOST header: 'www.qq.com:443'. You may need to add 'www.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:19:34,695 basehttp 124 "CONNECT www.qq.com:443 HTTP/1.1" 400 64589
+ERROR 2020-01-13 21:19:51,793 exception 74 Invalid HTTP_HOST header: '116.128.163.68'. You may need to add '116.128.163.68' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:19:51,822 basehttp 124 "POST http://116.128.163.68/ HTTP/1.1" 400 64911
+ERROR 2020-01-13 21:19:51,828 exception 74 Invalid HTTP_HOST header: 'btrace.qq.com'. You may need to add 'btrace.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:19:51,858 basehttp 124 "POST http://btrace.qq.com/ckvcollect/ HTTP/1.1" 400 68292
+ERROR 2020-01-13 21:19:51,860 exception 74 Invalid HTTP_HOST header: 'btrace.qq.com'. You may need to add 'btrace.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:19:51,890 basehttp 124 "POST http://btrace.qq.com/ckvcollect/ HTTP/1.1" 400 67651
+ERROR 2020-01-13 21:20:34,679 exception 74 Invalid HTTP_HOST header: 'www.qq.com:443'. You may need to add 'www.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:20:34,708 basehttp 124 "CONNECT www.qq.com:443 HTTP/1.1" 400 64589
+ERROR 2020-01-13 21:21:34,693 exception 74 Invalid HTTP_HOST header: 'www.qq.com:443'. You may need to add 'www.qq.com' to ALLOWED_HOSTS.
+WARNING 2020-01-13 21:21:34,726 basehttp 124 "CONNECT www.qq.com:443 HTTP/1.1" 400 64589
+CRITICAL 2020-01-13 21:22:53,880 t_dj 7 哈口，小伙子！！！！！！
+CRITICAL 2020-01-13 21:28:46,832 t_dj 7 哈口，小伙子！！！！！！
+WARNING 2020-01-13 21:29:51,672 base 93 Not Found: /
+WARNING 2020-01-13 21:29:51,673 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 21:29:51,809 base 93 Not Found: /favicon.ico
+WARNING 2020-01-13 21:29:51,810 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2313
+WARNING 2020-01-13 21:31:24,272 base 93 Not Found: /
+WARNING 2020-01-13 21:31:24,273 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 21:39:06,557 base 93 Not Found: /
+WARNING 2020-01-13 21:39:06,559 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 21:41:15,290 base 93 Not Found: /
+WARNING 2020-01-13 21:41:15,291 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 21:41:15,418 base 93 Not Found: /favicon.ico
+WARNING 2020-01-13 21:41:15,419 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2313
+WARNING 2020-01-13 21:41:26,368 base 93 Not Found: /
+WARNING 2020-01-13 21:41:26,369 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 21:42:34,498 base 93 Not Found: /favicon.ico
+WARNING 2020-01-13 21:42:34,499 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2313
+WARNING 2020-01-13 21:46:50,706 base 93 Not Found: /
+WARNING 2020-01-13 21:46:50,708 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 21:47:41,760 base 93 Not Found: /
+WARNING 2020-01-13 21:47:41,761 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 21:49:15,196 base 93 Not Found: /
+WARNING 2020-01-13 21:49:15,198 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 22:07:04,845 base 93 Not Found: /
+WARNING 2020-01-13 22:07:04,847 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 22:12:12,320 base 93 Not Found: /
+WARNING 2020-01-13 22:12:12,321 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 22:13:47,081 base 93 Not Found: /
+WARNING 2020-01-13 22:13:47,082 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 22:15:22,833 base 93 Not Found: /
+WARNING 2020-01-13 22:15:22,834 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 22:16:16,061 base 93 Not Found: /
+WARNING 2020-01-13 22:16:16,063 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 22:16:31,039 base 93 Not Found: /user
+WARNING 2020-01-13 22:16:31,040 basehttp 124 "GET /user HTTP/1.1" 404 2292
+WARNING 2020-01-13 22:17:25,034 base 93 Not Found: /banners
+WARNING 2020-01-13 22:17:25,034 basehttp 124 "GET /banners HTTP/1.1" 404 2301
+WARNING 2020-01-13 22:17:36,818 base 93 Not Found: /banners/
+WARNING 2020-01-13 22:17:36,819 basehttp 124 "GET /banners/ HTTP/1.1" 404 2304
+WARNING 2020-01-13 22:17:52,620 base 93 Not Found: /banners/
+WARNING 2020-01-13 22:17:52,620 basehttp 124 "GET /banners/ HTTP/1.1" 404 2304
+WARNING 2020-01-13 22:19:09,392 base 93 Not Found: /
+WARNING 2020-01-13 22:19:09,393 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 22:33:11,555 base 93 Not Found: /
+WARNING 2020-01-13 22:33:11,560 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-13 22:33:11,668 base 93 Not Found: /favicon.ico
+WARNING 2020-01-13 22:33:11,670 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2313
+CRITICAL 2020-01-13 22:47:13,490 t_dj 7 哈口，小伙子！！！！！！
+CRITICAL 2020-01-13 22:47:27,880 t_dj 7 哈口，小伙子！！！！！！
+CRITICAL 2020-01-14 19:22:01,903 t_dj 7 哈口，小伙子！！！！！！
+WARNING 2020-01-14 19:22:20,159 base 93 Not Found: /
+WARNING 2020-01-14 19:22:20,161 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-14 19:22:20,278 base 93 Not Found: /favicon.ico
+WARNING 2020-01-14 19:22:20,278 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2313
+WARNING 2020-01-14 19:25:41,527 base 93 Not Found: /
+WARNING 2020-01-14 19:25:41,527 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-14 21:32:21,139 base 93 Not Found: /favicon.ico
+WARNING 2020-01-14 21:32:21,140 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2313
+WARNING 2020-01-14 21:53:43,114 base 93 Not Found: /favicon.ico
+WARNING 2020-01-14 21:53:43,115 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2313
+WARNING 2020-01-14 22:01:26,240 base 93 Not Found: /xadmin/xadmin
+WARNING 2020-01-14 22:01:26,241 basehttp 124 "GET /xadmin/xadmin HTTP/1.1" 404 6492
+WARNING 2020-01-14 22:08:16,877 base 93 Not Found: /favicon.ico
+WARNING 2020-01-14 22:08:16,877 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2313
+WARNING 2020-01-15 19:17:13,398 base 93 Not Found: /
+WARNING 2020-01-15 19:17:13,399 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-15 19:17:13,980 base 93 Not Found: /favicon.ico
+WARNING 2020-01-15 19:17:13,981 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2313
+WARNING 2020-01-15 19:17:26,173 base 93 Not Found: /
+WARNING 2020-01-15 19:17:26,174 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-15 19:40:28,421 base 93 Not Found: /
+WARNING 2020-01-15 19:40:28,422 basehttp 124 "GET / HTTP/1.1" 404 2262
+WARNING 2020-01-15 19:54:58,780 base 93 Not Found: /media/banner/1.png
+WARNING 2020-01-15 19:54:58,781 basehttp 124 "GET /media/banner/1.png HTTP/1.1" 404 1810
+WARNING 2020-01-15 20:07:47,720 base 93 Not Found: /media/banner/1.png
+WARNING 2020-01-15 20:07:47,725 base 93 Not Found: /media/banner/4.png
+WARNING 2020-01-15 20:07:47,727 basehttp 124 "GET /media/banner/4.png HTTP/1.1" 404 1810
+WARNING 2020-01-15 20:07:47,727 basehttp 124 "GET /media/banner/1.png HTTP/1.1" 404 1810
+WARNING 2020-01-15 20:09:00,300 base 93 Not Found: /media/banner/1.png
+WARNING 2020-01-15 20:09:00,306 base 93 Not Found: /media/banner/4.png
+WARNING 2020-01-15 20:09:00,307 basehttp 124 "GET /media/banner/4.png HTTP/1.1" 404 1810
+WARNING 2020-01-15 20:09:00,311 basehttp 124 "GET /media/banner/1.png HTTP/1.1" 404 1810
+WARNING 2020-01-15 20:13:05,704 base 93 Not Found: /media/banner/1.png
+WARNING 2020-01-15 20:13:05,709 base 93 Not Found: /media/banner/4.png
+WARNING 2020-01-15 20:13:05,710 basehttp 124 "GET /media/banner/1.png HTTP/1.1" 404 1810
+WARNING 2020-01-15 20:13:05,711 basehttp 124 "GET /media/banner/4.png HTTP/1.1" 404 1810
+ERROR 2020-01-15 20:21:07,177 basehttp 124 "GET /xadmin/auth/permission/ HTTP/1.1" 500 59
+WARNING 2020-01-15 20:21:42,253 base 93 Not Found: /media/banner/1.png
+WARNING 2020-01-15 20:21:42,255 basehttp 124 "GET /media/banner/1.png HTTP/1.1" 404 1810
+WARNING 2020-01-15 20:23:48,533 base 93 Not Found: /media/banner/4.png
+WARNING 2020-01-15 20:23:48,537 basehttp 124 "GET /media/banner/4.png HTTP/1.1" 404 1810
